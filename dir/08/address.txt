@@ -1,0 +1,5 @@
+a, xxx@ac.com, 000-0000-0000
+b, xxx@ne.jp, 123-456-7890
+c, xxx@g.com, 987-654-3210
+d, hoge@hogeho.gem, 0120-123-456
+e, hoe@ho.ge, 0120-444-444
